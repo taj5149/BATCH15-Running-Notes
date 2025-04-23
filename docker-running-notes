@@ -918,8 +918,7 @@ sudo systemctl enable jenkins
 TRIVY : 
 DOCKER IMAGE SCANNING : 
 Trivy is an open-source vulnerability scanner designed to detect security issues in container images, 
-f
- ile systems, and Git repositories. 
+file systems, and Git repositories. 
 rpm -ivh https://github.com/aquasecurity/trivy/releases/download/v0.18.3/trivy_0.18.3_Linux
 64bit.rpm 
 rpm -uvh  
